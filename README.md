@@ -12,7 +12,7 @@ The app reads configuration from environment variables. At minimum, `DB_PASSWORD
 
 ```bash
 export SERVER_HOST=localhost
-export SERVER_PORT=8080
+export SERVER_PORT=8000
 
 export DB_HOST=localhost
 export DB_PORT=5432
